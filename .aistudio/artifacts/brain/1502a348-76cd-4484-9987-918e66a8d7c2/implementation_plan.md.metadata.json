@@ -1,0 +1,6 @@
+{
+  "summary": "Plan wdrożenia:\n1. Tryb przerywania wypowiedzi w Live Mode z natychmiastowym wygaszaniem audio po detekcji głosu.\n2. Bezpośrednie dyktowanie STT w oknie czatu (przycisk mikrofonu wrzuca rozpoznany tekst do pola edycji).\n3. Usunięcie Trybu Wsparcia i zbędnych mechanizmów izolacji – domyślny, autentyczny charakter asystenta.\n4. Niezależne sesje rozmów oraz lokalna pamięć stylu adaptacyjnego tworzona w locie i po zakończeniu czatu, łączona z bazą wiedzy.\n5. Rozszerzenie bazy głosów TTS: predefiniowane profile brzmienia, lista głosów silnika i podgląd audio.",
+  "updatedAt": "2026-10-15T08:19:32.700915067Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

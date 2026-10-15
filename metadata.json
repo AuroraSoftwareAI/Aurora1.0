@@ -1,0 +1,6 @@
+{
+  "name": "Aurora AI",
+  "description": "Aurora AI – inteligentny asystent głosowy z trybem rozmowy na żywo (Live Voice), dynamicznym uczeniem się z własnych źródeł wiedzy i personalizacją stylu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
